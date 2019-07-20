@@ -1,5 +1,5 @@
-# Project-2 Team 16
-Group 16 (Peter Kim and Mohammad Rao) present our ETL project on the 2016 presidential primary.
+## Team 16 ETL Project
+# Group 16 (Peter Kim and Mohammad Rao) present our ETL project on the 2016 presidential primary.
 
 Extract: Our data was taken from Kaggle [https://www.kaggle.com/benhamner/2016-us-election/]. 
 Data was on the 2016 Presidential Primary results from across the US. 
